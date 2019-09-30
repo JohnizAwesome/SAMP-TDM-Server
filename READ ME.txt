@@ -1,0 +1,17 @@
+Pangea Multi mode by Dr.Einstein 2010 - 2014
+
+INFO:
+The server works on windows. Some plugins are missing for linux. Yuu can simply find them.
+
+INSTALL:
+1) Create the database tables (MYSQL_TABLES.sql).
+2) Change database info in the game mode file
+3) Compile file
+4) Run the server
+
+KNOWN ISSUES: 
+1) In WW2 TL, textdraws for some reason hide.
+2) In RP, when server is shut down incorrectly, the items, vehicles files will be reset
+3) DB tables may not be normalized and there are no foreign keys
+4) There is no table for Total War Squads and chat. I tried to find the backups, couldn;t. 
+    You've to create them yourself. 
